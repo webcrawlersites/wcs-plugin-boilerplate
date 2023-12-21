@@ -1,0 +1,28 @@
+{
+    "name": "jason/wcs-plugin-boilerplate",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Jason Bischak",
+            "email": "jason@webcrawlersites.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Plugin_Namespace\\": [
+                "inc/",
+                "inc/core/"
+            ],
+            "Plugin_Namespace\\AdminMain\\": [
+                "inc/admin/"
+            ],
+            "Plugin_Namespace\\PublicMain\\": [
+                "inc/public/"
+            ],
+            "Plugin_Namespace\\Extras\\": [
+                "inc/extras/"
+            ]
+        }
+    },
+    "require": {}
+}
