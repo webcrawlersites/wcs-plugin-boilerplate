@@ -17,7 +17,7 @@
  * Plugin URI:        https://https://github.com/webcrawlersites/wcs-plugin-boilerplate.git
  * Description:       This is a description of the plugin.
  * Version:           1.0.0
- * Author:            authorEmail
+ * Author:            aPlugin Author
  * Author URI:        https://Webcrawlersites.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt

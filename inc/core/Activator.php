@@ -32,7 +32,7 @@ class Activator {
 	 * @since    1.0.0
 	 */
 	public static function activate() {
-		wp_die('activated successfully!');
+		
 	}
 
 }
